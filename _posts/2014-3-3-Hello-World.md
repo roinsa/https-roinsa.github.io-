@@ -7,6 +7,7 @@ Notas acerca de la programación de un sitio web en diferentes lenguajes:
 - Laravel
 - Wordpress
 - Jekyll
+- Varios
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
